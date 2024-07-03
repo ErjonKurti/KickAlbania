@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42c74fe1.css",
+    "main.js": "/static/js/main.26a1251e.js",
+    "static/media/about.jpg": "/static/media/about.577540e22de165a7d33e.jpg",
+    "static/media/instagram.png": "/static/media/instagram.7abdbb6bcaf8c49f5f69.png",
+    "static/media/whatsapp.jpg": "/static/media/whatsapp.4f5771d53e5e9b2f1db0.jpg",
+    "static/media/shoe_1.jpg": "/static/media/shoe_1.b80a8923065e4fe504fb.jpg",
+    "static/media/shoe_2.jpg": "/static/media/shoe_2.0c643d3d5c56dce371ea.jpg",
+    "static/media/tiktok.jpg": "/static/media/tiktok.9b0357e50ffe5697f8ec.jpg",
+    "static/media/rating_starts.png": "/static/media/rating_starts.ab9a71f2fd86113a20be.png",
+    "static/media/add_icon_white.png": "/static/media/add_icon_white.a58bd02e662c5e741b26.png",
+    "static/media/brand_4.jpg": "/static/media/brand_4.9b4bfbf394990f6cc928.jpg",
+    "static/media/brand_6.jpg": "/static/media/brand_6.018ac3bb00a3f0fade34.jpg",
+    "index.html": "/index.html",
+    "main.42c74fe1.css.map": "/static/css/main.42c74fe1.css.map",
+    "main.26a1251e.js.map": "/static/js/main.26a1251e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42c74fe1.css",
+    "static/js/main.26a1251e.js"
+  ]
+}

@@ -1,0 +1,12 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
